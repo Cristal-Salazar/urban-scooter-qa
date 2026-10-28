@@ -43,7 +43,7 @@ Validación de solicitudes y respuestas relacionadas con la gestión de repartid
 
 ## 📂 Evidencias técnicas
 
-En este repositorio se incorporarán ejemplos de casos de prueba, listas de comprobación, pruebas de API y reportes de defectos.
+Las evidencias técnicas del proyecto están organizadas en cuatro secciones: pruebas web, pruebas móviles, pruebas de API REST y reportes de defectos. Incluyen listas de comprobación, resultados de ejecución, documentación de incidencias y una solicitud HTTP POST ejecutada con Postman.
 
 ## 🌐 Portafolio completo
 
