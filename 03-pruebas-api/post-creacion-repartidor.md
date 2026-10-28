@@ -57,7 +57,9 @@ El código HTTP 201 indica que el servidor procesó exitosamente la creación de
 - Análisis de respuestas del servidor.
 - Ejecución de pruebas positivas con Postman.
 
-## Evidencia
+## Evidencia visual de la prueba
+
+![Solicitud POST de creación de repartidor con respuesta HTTP 201 Created](post-creacion-repartidor.png)
 
 Prueba ejecutada en Postman utilizando el entorno de Urban Scooter proporcionado por TripleTen.
 
